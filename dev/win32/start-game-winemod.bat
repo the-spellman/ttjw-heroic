@@ -4,7 +4,7 @@ title Poodletooth isLand Game Launcher
 
 set TTS_GAMESERVER=127.0.0.1
 
-set TTS_PLAYCOOKIE=bruh
+set TTS_PLAYCOOKIE=offline
 
 echo.
 
